@@ -37,3 +37,8 @@ foreach($resultado in ($flyfinal.'Flight ' | Group-Object | Select name))
     }
 }
 ```
+- - - - - - - 
+### ESQUEMA CONEXION
+
+- - - - - - - 
+![1](https://user-images.githubusercontent.com/82601259/152407832-1c7d2795-2244-4e6e-bc92-3350b9f6c5b3.png)
